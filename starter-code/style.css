@@ -1,0 +1,38 @@
+.navbar-brand {
+  font-size: 25px;
+  padding: 10px;
+}
+.carousel-item.black-and-white {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.overlay {
+  background-image: url(img/overlay.png);
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-btn {
+  border: none;
+  height: 100px;
+  background-color: red;
+  width: 70px;
+  position: absolute;
+  top: 40%;
+}
+.highlight img {
+  width: 100%;
+}
+.hr-style {
+  border: 3px solid red;
+}
+.copyright {
+  font-size: 12px;
+}
+footer a {
+  text-decoration: none;
+}
+.line {
+  border-bottom: dotted;
+}
