@@ -6,13 +6,6 @@
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-.overlay {
-  background-image: url(img/overlay.png);
-  z-index: 10;
-  height: 100%;
-  width: 100%;
-}
-
 .carousel-btn {
   border: none;
   height: 100px;
